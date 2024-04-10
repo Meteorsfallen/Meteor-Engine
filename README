@@ -1,0 +1,8 @@
+# Meteor Engine
+Meteor Engine 是一个简单的利用 C/C++ 开发的基于 Vulkan 的图形引擎，不求多强，只是用来自我学习的一个实践项目
+
+## 准备支持的平台
+* Windows
+* Linux (未测试)
+* macOS (未测试)
+* Android (未测试)
